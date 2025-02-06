@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=40&duration=3000&pause=1000&color=FF007F&background=000000&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Passionate+Developer;Exploring+the+World+of+Code;Let's+Build+Something+Awesome!" alt="Futuristic Banner" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Vast Shadow&size=40&duration=3000&pause=1000&color=A9FEF7&background=000000&center=true&vCenter=true&width=900&height=100&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Passionate+Developer;Exploring+the+World+of+Code;Let's+Build+Something+Awesome!" alt="Futuristic Banner" />
 </p>
 
 <!--
