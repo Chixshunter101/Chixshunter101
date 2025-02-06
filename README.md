@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Passionate+Developer;Exploring+the+World+of+Code;Let's+Build+Something+Awesome!" alt="Welcome to My GitHub Profile! I'm a Passionate Developer Exploring the World of Code Let's Build Something Awesome!" />
+</p>
 
 <!--
 **Chixshunter101/Chixshunter101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
