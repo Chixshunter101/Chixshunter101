@@ -1,14 +1,14 @@
-<img src="./assets/separatorline.gif" height="5px" width="100%"/>
-<img src="./assets/Futuristic-City-bannernamed.gif" align="middle" alt="Banner" width="100%"/>
+<img src="./asset/separatorline.gif" height="5px" width="100%"/>
+<img src="./asset/Futuristic-City-bannernamed.gif" align="middle" alt="Banner" width="100%"/>
 
 <div align="center">
-    <img src="./assets/animegirl.gif" width="80px" align="right"/>
+    <img src="./asset/animegirl.gif" width="80px" align="right"/>
     <img src="https://readme-typing-svg.demolab.com?font=Chewy&size=40&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=940&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Passionate+Computer+Science+student;Exploring+the+World+of+Code;Let's+Build+Something+Awesome!" alt="Hi, I'm Ernest and Welcome to my Profile! animated typed out" width="80%" align="middle" />
-    <img src="./assets/animegirl.gif" width="80px" align="left"/>
+    <img src="./asset/animegirl.gif" width="80px" align="left"/>
 </div>
-<img src="./assets/separatorline.gif" height="5px" width="100%"/>
+<img src="./asset/separatorline.gif" height="5px" width="100%"/>
 
-<img align="right" src="./assets/steamer.gif" width="300px" height="400px" alt="pixel city image">
+<img align="right" src="./asset/steamer.gif" width="300px" height="400px" alt="pixel city image">
 
 - 👋 Hi, I’m Ernest!  <br><br>
 - 🎓 I’m a passionate Computer Science student with a keen interest in software development, algorithms, and problem-solving. I love exploring new technologies and building projects that challenge me to grow as a developer.<br><br>
@@ -19,16 +19,16 @@
 -   🌟 When I'm not coding, you can find me playing moba games, watching movies or crypto trading.
 
   Let’s connect and build something amazing together! 😄
-<img src="./assets/separatorline.gif" height="5px" width="100%"/>
+<img src="./asset/separatorline.gif" height="5px" width="100%"/>
 
 <div align="center">
     <h3> 
         <strong>
-            <img src="./assets/cat.gif" width="30px"/> 
+            <img src="./asset/cat.gif" width="30px"/> 
             <span style="color: #ff5733;">Languages</span>, 
             <span style="color: #33ff57;">Frameworks</span>, and 
             <span style="color: #5733ff;">Tools</span> that I tried! 
-            <img src="./assets/cat.gif" width="30px"/> 
+            <img src="./asset/cat.gif" width="30px"/> 
         </strong>
     </h3>
 </div>
@@ -59,10 +59,10 @@
         <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
-<img src="./assets/separatorline.gif" height="5px" width="100%"/>
+<img src="./asset/separatorline.gif" height="5px" width="100%"/>
 
 <div align="center">
-    <h2><img src="./assets/cat.gif" width="30px"/>📊 GitHub Stats<img src="./assets/cat.gif" width="30px"/> </h2>
+    <h2><img src="./asset/cat.gif" width="30px"/>📊 GitHub Stats<img src="./assets/cat.gif" width="30px"/> </h2>
     <img src="https://github-profile-trophy.vercel.app/?username=Chixshunter&theme=apprentice&no-frame=false&no-bg=true&margin-w=4"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chixshunter&theme=city_lights&hide_border=false"/>
     <img src="https://github-readme-stats.vercel.app/api?username=Chixshunter&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false"/>
@@ -73,6 +73,6 @@
     <img src="https://wakatime.com/share/@Chixshunter/c66db64a-c1c5-4eff-ab56-bae4f4bfff52.svg" width="540px"/>
 </div>
 
-<img src="./assets/separatorline.gif" height="5px" width="100%"/>
-<img src="./assets/Gamer-Room.gif" align="middle" alt="Gamerroom" width="100%"/>
-<img src="./assets/separatorline.gif" height="5px" width="100%"/>
+<img src="./asset/separatorline.gif" height="5px" width="100%"/>
+<img src="./asset/Gamer-Room.gif" align="middle" alt="Gamerroom" width="100%"/>
+<img src="./asset/separatorline.gif" height="5px" width="100%"/>
